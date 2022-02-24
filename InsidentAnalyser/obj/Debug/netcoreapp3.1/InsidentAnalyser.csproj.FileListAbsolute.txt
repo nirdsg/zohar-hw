@@ -1,0 +1,9 @@
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.csproj.AssemblyReference.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.AssemblyInfoInputs.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.AssemblyInfo.cs
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\bin\Debug\netcoreapp3.1\InsidentAnalyser.deps.json
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\bin\Debug\netcoreapp3.1\InsidentAnalyser.dll
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\bin\Debug\netcoreapp3.1\InsidentAnalyser.pdb
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.dll
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\InsidentAnalyser\obj\Debug\netcoreapp3.1\InsidentAnalyser.pdb

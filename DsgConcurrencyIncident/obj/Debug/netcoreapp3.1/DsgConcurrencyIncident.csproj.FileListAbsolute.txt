@@ -1,0 +1,13 @@
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.exe
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.deps.json
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.runtimeconfig.json
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.runtimeconfig.dev.json
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.dll
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\bin\Debug\netcoreapp3.1\DsgConcurrencyIncident.pdb
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.csproj.AssemblyReference.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.AssemblyInfoInputs.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.AssemblyInfo.cs
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.csproj.CoreCompileInputs.cache
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.dll
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.pdb
+C:\Users\zoharbi\source\repos\DsgConcurrencyIncident\DsgConcurrencyIncident\obj\Debug\netcoreapp3.1\DsgConcurrencyIncident.genruntimeconfig.cache
